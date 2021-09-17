@@ -2,4 +2,4 @@
 
 Olympiad Certificate:
 
-![]("olympiad.png")
+![]("Olympiad.png")
